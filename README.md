@@ -1,2 +1,2 @@
-# News-Scrape
-All the News That's Fit to Scrape
+# Coming-Soon
+See what's coming soon.
